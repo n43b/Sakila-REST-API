@@ -122,4 +122,4 @@ MIT License
 
 ## Author
 
-Developed by \[Your Name]. Part of module **M295** final project.
+Developed by Naeb.A . Part of module **M295** final project.
